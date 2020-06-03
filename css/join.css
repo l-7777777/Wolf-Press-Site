@@ -35,7 +35,7 @@ html {
     padding-right: 10px;
 }
 
-#navbar>a#about {
+#navbar>a#join {
     color: rgb(100, 100, 100);
 }
 
@@ -50,23 +50,7 @@ html {
 #content {
     position: absolute;
     width: 100%;
+    height: 90%;
     left: 0;
     top: 10%;
-    background-color: lightgray;
-}
-
-#content>p {
-    padding-left: 5%;
-    padding-right: 5%;
-    text-indent: 40px;
-}
-
-#content>#imagebox {
-    padding: 5%;
-}
-
-#content>#imagebox>img {
-    width: 30%;
-    padding-left: 1.5%;
-    padding-right: 1.5%;
 }
